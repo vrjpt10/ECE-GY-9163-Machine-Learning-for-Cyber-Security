@@ -25,5 +25,5 @@ The following changes were observed in the accuracy on clean test data and the a
 ![](https://github.com/vrjpt10/Machine-Learning-for-Cyber-Security/blob/main/Lab-2/Screenshot/accuracy-asr-x.jpg)
 ### Author
 
-- [Vaishnavi Rajput](https://www.github.com/vaishnavirjpt10/)
+ [Vaishnavi Rajput](https://www.github.com/vaishnavirjpt10/)
 
